@@ -1,0 +1,7 @@
+
+build/
+*.exe
+*.mp4
+*.avi
+*.mov
+.vscode/
